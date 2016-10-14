@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1474486159 source:c:\users\starl\documents\1my stuff\programs\pokemon battle\ability.cpp
+
+1475251448 source:c:\users\starl\documents\1my stuff\programs\pokemon battle\battlefield.cpp
+	"Battlefield.h"
+
+1475247629 c:\users\starl\documents\1my stuff\programs\pokemon battle\battlefield.h
+	"Pokemon.h"
+	"Player.h"
+
+1476053742 c:\users\starl\documents\1my stuff\programs\pokemon battle\pokemon.h
+	"Moves.h"
+	<vector>
+	"Ability.h"
+
+1476041488 c:\users\starl\documents\1my stuff\programs\pokemon battle\moves.h
+	<string>
+
+1475001155 c:\users\starl\documents\1my stuff\programs\pokemon battle\ability.h
+
+1475250496 c:\users\starl\documents\1my stuff\programs\pokemon battle\player.h
+	<vector>
+	"Pokemon.h"
+
+1476053603 source:c:\users\starl\documents\1my stuff\programs\pokemon battle\main.cpp
+	<iostream>
+	"Battlefield.h"
+	<fstream>
+	"Player.h"
+	"Operations.h"
+
+1476053226 c:\users\starl\documents\1my stuff\programs\pokemon battle\operations.h
+	<bits/stdc++.h>
+	"Player.h"
+	"Battlefield.h"
+	"Pokemon.h"
+
+1476043039 source:c:\users\starl\documents\1my stuff\programs\pokemon battle\moves.cpp
+	"Moves.h"
+
+1476053716 source:c:\users\starl\documents\1my stuff\programs\pokemon battle\operations.cpp
+	"Operations.h"
+
+1475250700 source:c:\users\starl\documents\1my stuff\programs\pokemon battle\player.cpp
+	"Player.h"
+
+1476053913 source:c:\users\starl\documents\1my stuff\programs\pokemon battle\pokemon.cpp
+	"Pokemon.h"
+
